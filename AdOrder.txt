@@ -37,7 +37,7 @@
 		"advertiserName": "Unity",
 		"bannerSettings": {
 			"adType": 1,
-			"orderAndroid": 0,
+			"orderAndroid": 4,
 			"orderiOS": 2,
 			"orderWindows": 2,
 			"weightAndroid": 0,
@@ -46,7 +46,7 @@
 		},
 		"interstitialSettings": {
 			"adType": 2,
-			"orderAndroid": 0,
+			"orderAndroid": 4,
 			"orderiOS": 3,
 			"orderWindows": 3,
 			"weightAndroid": 0,
@@ -55,7 +55,7 @@
 		},
 		"rewardedSettings": {
 			"adType": 3,
-			"orderAndroid": 0,
+			"orderAndroid": 4,
 			"orderiOS": 2,
 			"orderWindows": 2,
 			"weightAndroid": 0,
