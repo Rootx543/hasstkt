@@ -48,7 +48,7 @@
          },
          "interstitialSettings":{
             "adType":2,
-            "orderAndroid":1,
+            "orderAndroid":3,
             "orderiOS":2,
             "orderWindows":2,
             "weightAndroid":0,
@@ -79,7 +79,7 @@
          },
          "interstitialSettings":{
             "adType":2,
-            "orderAndroid":3,
+            "orderAndroid":1,
             "orderiOS":3,
             "orderWindows":3,
             "weightAndroid":0,
